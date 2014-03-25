@@ -9,3 +9,8 @@ list with every element duplicated. So, the query dupList([a,b,c], D). should re
 (b) Write a relation dupListTimes that takes three arguments, two lists and an integer N, and is
 true if the second list is the first list with every element duplicated N times. For example, the
 query dupListTimes([a,b], L, 4). should return L = [a,a,a,a,b,b,b,b].
+
+
+Problem 3:
+==========
+http://projecteuler.net/problem=19
